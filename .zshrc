@@ -112,3 +112,6 @@ alias vim="nvim"
 
 # Exec on open
 fastfetch
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="/home/nuff/.yarn/bin:$PATH"
+export PATH="/home/nuff/work-piscale/piscaleid:$PATH"
